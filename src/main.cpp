@@ -12,8 +12,8 @@
 
 KitchenTimer kitchenTimer(
     MODE_BUTTON_PIN,
-    DOWN_BUTTON_PIN,
     UP_BUTTON_PIN,
+    DOWN_BUTTON_PIN,
     BUZZER_PIN,
     CLK_PIN,
     DIO_PIN);
